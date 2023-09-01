@@ -19,7 +19,10 @@ body {
     object-fit: cover;
 
 }
-
+#profile_pic {
+    height: auto;
+    max-width: 100px;
+}
 main {
     position: relative;
     opacity: 0;
