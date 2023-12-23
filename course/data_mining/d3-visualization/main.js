@@ -40,7 +40,7 @@ var margin = {top: 80, right: 25, bottom: 30, left: 40},
 
 
 // Load data once
-d3.csv("../experiment-1.csv", function(data) {
+d3.csv("./experiment-1.csv", function(data) {
     // Store data in a variable accessible by all visualizations
     var sharedData = data;
     
