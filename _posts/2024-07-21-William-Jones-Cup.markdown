@@ -74,7 +74,7 @@ By the way, I remember Chris asked me to help him find a ring that he left in th
 
 5:00 PM - Game starts
 
-| ![captionless image](/assets/jones_cup/IMG_0274.JPG)|
+| ![captionless image](/assets/jones_cup/IMG_0274.jpg)|
 |:--:| 
 | *Pretend to be professional* |
 
