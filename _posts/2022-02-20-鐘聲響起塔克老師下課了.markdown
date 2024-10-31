@@ -1,0 +1,57 @@
+---
+layout: post
+title:  "鐘聲響起，塔克老師下課了｜Anthony Tucker"
+date:   2022-02-20 04:31:40 +0000
+permalink: /posts/:title
+categories: [Basketball, PLG]
+---
+
+擋拆表現
+----
+<iframe style=" display: block;
+  width: 100vw;
+  height: 50vh;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  box-sizing: border-box; "
+src="https://www.youtube.com/embed/eKzCOVYRHQI" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
+
+
+本季與Tucker打擋拆最多次的球員為Benson，共38次，這個結果其實不意外，基本上鋼鐵人洋將都放一大一小，Benson也不是所謂進攻型的球員，他的工作主要是防守與抓籃板，進攻方面，Benson持球單打成功率不高，得分方式主要是二波補進或靠近籃筐的放籃。當Tucker與Benson打擋拆時，以防守球員的角度來說，就是放Benson外線，場均三分命中率為15.38%，就是放Benson投就對了，那當Benson roll in 時，與外線相比是個比較好的機會，但執行效果也不好，根據gc basket的數據，Benson進攻效率最低的是定點投籃為0.6，第二低的就是擋拆為0.9。
+
+本土最常與Tucker打擋拆的人為鄭德維，共16次，G80面對領航猿時有很多Pick & Pop 三分外線的空擋機會，但場均16.67%的三分球命中率，說明三分線並不是鄭德維的強項，使Tucker在打擋拆時兩名防守者可以更專注於Tucker，防堵Tucker的外線投籃，擋拆成功率也不高，而本季Tucker三分球場均27.7%的低迷狀況，在擋拆後的把握度不是太好，三分球3–12，25%，兩分球5–9，55.5%，雖然超過5成，但兩分與三分的總出手只有21次，出手機會很少，擋拆後傳球的部分，隊友8–22，表現尚可。
+
+總結本季Tucker擋拆的執行狀況，我猜測各隊都已經熟悉Tucker的打法，針對性去防守逼迫Tucker傳球，將球交給外線不擅長的內線球員處理，雖然Tucker偶爾有三分空擋機會，但本季尚未找到準心的老師，命中率也不甚理想，使得本季擋拆的威脅性沒有想像中的大，另外鋼鐵人開季前期還在磨合，在體系尚未形成的狀況下，整體團隊配合較少，大多還是持球單打，這也是Tucker命中率不佳的原因之一。
+
+Anthony Tucker 與 Taylor Braun 比較
+--------------------------------
+
+
+| ![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Z6_Xz6xyTc5b-9F-MMXgQw.png) |
+|:--:| 
+| |
+
+
+
+上方的圖是針對球員登錄的所有場次之球隊場均效率比較，其中Anthony Tucker 與 Taylor Barun 有配過2次，可以發現雖然Tucker有登錄時，ADR比Braun登錄時低，但只有低一些，而ANR與Braun差距11.04。
+
+Anthony Tucker 由於本季鋼鐵人陣容關係，有嘗試著打2號，但我在剪影片的時候發現他似乎還沒適應，在陣地戰偶爾會發生Tucker 沒有參與進攻的情況，我認為Tucker還是需要球權才有威脅性，但在合理的出手與分享球的拿捏程度是一個困難的課題，對於Tucker來說，被守到的投籃他還是有能力投進，與命中率不佳的空擋球員相比，到底要不要傳？Tucker不是說不傳，是傳了有時候命中率不理想，所以會自己來，但今天說難聽一點，Tucker沒投進的確是要承擔沒把球傳給最好機會的責任，因為進球是好球，自幹沒進就不合理，舉例來說，G36夢想家對國王轟了19顆三分，其中有一顆是姐夫快攻3分線外1步自拔，合理嗎？我覺得不合理，因為是快攻，有機會更靠近籃筐出手，況且三分也不是姐夫的強項，但最後他進球了，進球就是好球。
+
+而Taylor Braun 屬於團隊型球員，該怎麼樣就怎麼樣，有空擋出手，沒機會就傳掉，在團隊配合上，球的流動性比Tucker在場上時還好，雖說場均三分命中率為25%，比Tucker還低，但Braun場均三分出手為5.33次，Tucker為10.8次，多了約ㄧ倍，另外Braun身高201公分， 1234號都可以打，可以組織控球，場均助攻7.88次(2/19)，聯盟第一，種種因素與陣容關係，的確較適合鋼鐵人，況且在陳又瑋越打越好下，1號不在需要依賴Tucker。
+
+鋼鐵人洋將組合效率
+---------
+
+|![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*K0oFIDI4LiAqOWwG0D3TVg.png)|
+|:--:| 
+| |
+
+
+上方的圖是針對各洋將組合登錄的所有場次之球隊場均效率比較。
+
+年前10場比賽中，Benson與Tucker、Braun各配4次，Tucker與Braun配2次，大部分場次Benson是自動登入，因為就目前陣容來說，中鋒的高度非常重要，所以撇除Tucker與Braun配，Benson配Braun 的ANR 為4.7，配Tucker的ANR為-11.3，相差16，是非常大的差距，從數據面顯現出目前鋼鐵人的洋將組合Benson配Braun，對於團隊表現有較明顯的幫助。在Tucker被釋出後，補進了同樣也叫Anthony的NBA水貨狀元Anthony Bennett，給了鋼鐵人內線更多選擇，另外CBA台將，台灣LBJ周儀翔的回歸，對於鋼鐵人的戰力也提升了不少，只要周儀翔信心找回來，身手不會差太多，最後祝福塔克老師在台中太陽有好的表現。

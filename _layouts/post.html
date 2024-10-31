@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article>
+
+    <header>
+      <h1 >{{ page.title | escape }}</h1>
+      
+      <p class="post-meta">
+        <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          {{ page.date | date: date_format }}
+        </time>
+        
+       
+      </p>
+      <span>Category: </span>
+      {%- if page.categories.size > 0 -%}
+      {%- for tag in page.categories -%}
+        <span class="post-tag"><a href={{ '/categories#' | append: tag }} class="tag-link">#{{ tag | capitalize }}   </a></span>
+      {%- endfor -%}
+      {%- endif -%}
+    </header>
+    <br><br>
+    <div class="post-content e-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+    
+  </article>

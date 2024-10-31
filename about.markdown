@@ -9,9 +9,9 @@ permalink: /about/
 
 Hi everyone!
 
-I'm Jason. I actually don't know much about myself. 
+I'm Jason. 
 
-Let me list some of my hobbies so that u guys can know more ab me. Also myself haha.
+Let me list some of my hobbies so that u guys can know more ab me. 
 - I like to build stuff 👨🏻‍💻
 - I like sports 🏀 🏃 🏋️‍♂️
 - I like to travel 🌎
