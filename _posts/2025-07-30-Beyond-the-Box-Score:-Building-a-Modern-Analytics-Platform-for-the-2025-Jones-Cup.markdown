@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Beyond the Box Score: Building a Modern Analytics Platform for the 2025 Jones Cup"
