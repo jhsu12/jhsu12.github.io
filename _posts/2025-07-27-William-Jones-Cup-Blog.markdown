@@ -23,7 +23,7 @@ At first, I was assigned to the **Australia team**, but after a bit of back-and-
 
 Since it was the **Taiwan National Team**, there was naturally more work compared to other teams—things like **laundry, towels, dinner boxes**. I was the one coordinating those. I mean, I couldn’t exactly ask the captain 劉錚 to go collect towels 😂.  
 
-| ![captionless image](/assets/2025-Jones-Cup/IMG_2525.JPG)|
+| ![captionless image](/assets/2025-Jones-Cup/IMG_2524.JPG)|
 |:--:| 
 | *My everyday job* |
 
